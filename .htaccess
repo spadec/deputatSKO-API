@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Private Area For API"
+AuthUserFile C:\OSPanel\domains\depSKO\.htpasswd
+Require valid-user
